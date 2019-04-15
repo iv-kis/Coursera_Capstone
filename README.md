@@ -3,7 +3,7 @@ This repository is for the Capstone Project of the Coursera IBM Data Science Cer
 
 Notes:
 1. In Toronto lab I use British spelling for 'Neighbourhood', pay attention, if you use a part of this code
-2. In Toronto lab, for security purpose, I put API credentials into separate module map_api.py
+2. In Toronto lab, for security purpose, I put API credentials into separate module map_api.py,
 the code inside map_api.py is as follows:
 
 class mapquest(object):
