@@ -2,9 +2,9 @@
 This repository is for the Capstone Project of the Coursera IBM Data Science Certificate
 
 - Project P.pdf            - Project presentation
-- demo.html                - Demo result for final part of Capstone work
-- Project_P report.pdf     - Full report
-- Project P.ipynb          -  Main notebook
+- demo.html              - Demo result for final part of Capstone work
+- Project_P report.pdf       - Full report
+- Project P.ipynb            -  Main notebook
 
 Notes:
 1. In Toronto lab I use British spelling for 'Neighbourhood', pay attention, if you use a part of this code
@@ -12,17 +12,17 @@ Notes:
 the code inside map_api.py is as follows:
 
 class mapquest(object):  
-    """mapquest api: key, secret"""  
-    def __init__(self):  
-        """Constructor"""  
-        self.key = key  
-        self.secret = secret  
+   """mapquest api: key, secret"""  
+   def __init__(self):  
+       """Constructor"""  
+       self.key = key  
+       self.secret = secret  
           
 class foursquare(object):  
-    """Foursquare api: key, secret, version"""  
-    def __init__(self):  
-        """Constructor"""  
-        self.id = id   
-        self.secret = secret  
-        self.version = '20190405'  
+   """Foursquare api: key, secret, version"""  
+   def __init__(self):  
+       """Constructor"""  
+       self.id = id   
+       self.secret = secret  
+       self.version = '20190405'  
         
