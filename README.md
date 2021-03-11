@@ -15,14 +15,14 @@ class mapquest(object):
     """mapquest api: key, secret"""  
     def __init__(self):  
         """Constructor"""  
-        self.key = <key>  
-        self.secret = <secret>  
+        self.key = key 
+        self.secret = secret  
           
 class foursquare(object):  
     """Foursquare api: key, secret, version"""  
     def __init__(self):  
         """Constructor"""  
-        self.id = <id>  
-        self.secret = <secret>  
+        self.id = id   
+        self.secret = secret  
         self.version = '20190405'  
         
