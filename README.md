@@ -15,7 +15,7 @@ class mapquest(object):
     """mapquest api: key, secret"""  
     def __init__(self):  
         """Constructor"""  
-        self.key = key 
+        self.key = key  
         self.secret = secret  
           
 class foursquare(object):  
