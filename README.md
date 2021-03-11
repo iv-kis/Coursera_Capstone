@@ -1,5 +1,7 @@
-# Coursera_Capstone
+# Coursera_Capstone - Pinpoint Perfect Parish
 This repository is for the Capstone Project of the Coursera IBM Data Science Certificate
+
+Imagine, you want to visit or relocate to Porto City (Portugal). Which district would you choose for a stay? Not far from the ocean? Or, perhaps, you dislike noise, winds and gulls, so you prefer to stay neither by the shore, nor in the City Centre? Anyway, you probably want to know, how districts of the City differ from each other and which are similar.
 
 - Project P.pdf            - Project presentation
 - demo.html             - Demo result for final part of Capstone work
